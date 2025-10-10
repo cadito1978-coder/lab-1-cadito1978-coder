@@ -5,7 +5,7 @@ using namespace std;
 int main() {
   float numero;
   int divisor;
-  divisor = 0;
+  divisor = 2;
   cout << "Hola" << endl;
   cout << "Ingrese un número y presione enter" << endl;
   cin >> numero;
